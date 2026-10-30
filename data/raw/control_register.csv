@@ -1,0 +1,31 @@
+control_id,control_name,risk_id,control_type,frequency,automated,owner
+C001,Control 01 - Approval,R007,Corrective,Monthly,Yes,Compliance
+C002,Control 02 - Vendor check,R015,Preventive,Monthly,Yes,Procurement
+C003,Control 03 - Segregation of duties,R018,Corrective,Monthly,No,Compliance
+C004,Control 04 - Access review,R008,Preventive,Quarterly,Yes,Finance
+C005,Control 05 - Approval,R005,Corrective,Weekly,No,Finance
+C006,Control 06 - Vendor check,R013,Corrective,Quarterly,No,Finance
+C007,Control 07 - Segregation of duties,R004,Corrective,Monthly,No,Finance
+C008,Control 08 - Access review,R014,Preventive,Quarterly,Yes,IT Security
+C009,Control 09 - Payment review,R006,Corrective,Daily,No,Procurement
+C010,Control 10 - Reconciliation,R012,Preventive,Daily,No,Compliance
+C011,Control 11 - Approval,R004,Detective,Monthly,Yes,Finance
+C012,Control 12 - Reconciliation,R019,Preventive,Daily,No,Finance
+C013,Control 13 - Payment review,R005,Preventive,Quarterly,Yes,IT Security
+C014,Control 14 - Payment review,R020,Detective,Weekly,Yes,IT Security
+C015,Control 15 - Vendor check,R012,Detective,Quarterly,Yes,Procurement
+C016,Control 16 - Reconciliation,R003,Detective,Daily,Yes,Procurement
+C017,Control 17 - Approval,R003,Corrective,Daily,Yes,Finance
+C018,Control 18 - Approval,R011,Preventive,Weekly,No,Compliance
+C019,Control 19 - Reconciliation,R018,Preventive,Quarterly,Yes,Compliance
+C020,Control 20 - Vendor check,R007,Preventive,Daily,No,IT Security
+C021,Control 21 - Vendor check,R014,Detective,Daily,Yes,Finance
+C022,Control 22 - Vendor check,R011,Preventive,Weekly,Yes,Procurement
+C023,Control 23 - Payment review,R015,Preventive,Quarterly,Yes,IT Security
+C024,Control 24 - Vendor check,R008,Preventive,Quarterly,Yes,Finance
+C025,Control 25 - Segregation of duties,R018,Preventive,Daily,Yes,Procurement
+C026,Control 26 - Vendor check,R016,Detective,Weekly,No,Finance
+C027,Control 27 - Reconciliation,R013,Preventive,Quarterly,No,Compliance
+C028,Control 28 - Access review,R014,Corrective,Quarterly,Yes,Procurement
+C029,Control 29 - Access review,R007,Preventive,Daily,No,Finance
+C030,Control 30 - Approval,R019,Detective,Weekly,Yes,Finance

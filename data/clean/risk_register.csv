@@ -1,0 +1,21 @@
+risk_id,risk_name,category,likelihood,impact,inherent_score,residual_score,owner,rating
+R001,Duplicate vendor payments,Strategic,1,1,1,1,Procurement,Low
+R002,Unauthorized payment approval,Strategic,2,2,4,4,Operations,Low
+R003,Fictitious vendor creation,Cyber,1,5,5,5,Finance,Low
+R004,Invoice splitting to bypass limits,Operational,1,2,2,1,Operations,Low
+R005,Segregation of duties conflict,Operational,1,5,5,1,Operations,Low
+R006,Late payment penalties,Cyber,4,2,8,4,IT Security,Low
+R007,Vendor data breach,Strategic,1,2,2,1,IT Security,Low
+R008,Ransomware on finance systems,Operational,3,2,6,1,IT Security,Low
+R009,Weak access reviews,Cyber,1,1,1,1,IT Security,Low
+R010,Regulatory reporting error,Compliance,3,5,15,9,Finance,Medium
+R011,Data privacy non-compliance,Financial,4,5,20,17,Finance,High
+R012,Key vendor failure,Strategic,5,3,15,11,IT Security,Medium
+R013,Budget overrun,Strategic,5,2,10,10,Finance,Medium
+R014,Procurement policy breach,Financial,2,3,6,1,Procurement,Low
+R015,Fraudulent expense claims,Compliance,1,4,4,1,IT Security,Low
+R016,Inaccurate financial close,Compliance,2,3,6,5,IT Security,Low
+R017,Third-party sanctions exposure,Strategic,1,5,5,4,Operations,Low
+R018,Business continuity gap,Cyber,2,2,4,1,IT Security,Low
+R019,Unpatched ERP system,Strategic,5,2,10,8,Finance,Medium
+R020,Manual journal errors,Compliance,2,1,2,1,IT Security,Low

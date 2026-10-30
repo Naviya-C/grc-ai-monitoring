@@ -1,0 +1,363 @@
+exception_id,transaction_id,detection_method,rule,score,severity,reason,vendor_id,vendor_name,department,amount,payment_date,requester_id,approver_id,status
+EX00001,TX04722,Rule,Duplicate payment,1.0,High,"Invoice INV447009 paid more than once to V047 for 8,380.74",V047,Vendor 047 Ltd,HR,8380.74,2025-11-17 08:31:43,E004,E020,New
+EX00002,TX04913,Rule,Duplicate payment,1.0,High,"Invoice INV447009 paid more than once to V047 for 8,380.74",V047,Vendor 047 Ltd,HR,8380.74,2025-11-19 08:31:43,E004,E020,Under review
+EX00003,TX02204,Rule,Duplicate payment,1.0,High,Invoice INV461722 paid more than once to V049 for 664.63,V049,Vendor 049 Ltd,Finance,664.63,2025-12-22 15:31:59,E035,E038,New
+EX00004,TX04924,Rule,Duplicate payment,1.0,High,Invoice INV461722 paid more than once to V049 for 664.63,V049,Vendor 049 Ltd,Finance,664.63,2025-12-23 15:31:59,E035,E038,Under review
+EX00005,TX01890,Rule,Duplicate payment,1.0,High,"Invoice INV932143 paid more than once to V065 for 2,601.56",V065,Vendor 065 Ltd,Finance,2601.56,2026-01-27 15:09:47,E013,E001,Resolved
+EX00006,TX04920,Rule,Duplicate payment,1.0,High,"Invoice INV932143 paid more than once to V065 for 2,601.56",V065,Vendor 065 Ltd,Finance,2601.56,2026-01-29 15:09:47,E013,E001,Under review
+EX00007,TX04909,Rule,Duplicate payment,1.0,High,"Invoice INV932143 paid more than once to V065 for 2,601.56",V065,Vendor 065 Ltd,Finance,2601.56,2026-01-30 15:09:47,E013,E001,Under review
+EX00008,TX03325,Rule,Duplicate payment,1.0,High,"Invoice INV357229 paid more than once to V045 for 1,080.77",V045,Vendor 045 Ltd,Finance,1080.77,2026-02-23 08:39:40,E011,E015,New
+EX00009,TX04905,Rule,Duplicate payment,1.0,High,"Invoice INV357229 paid more than once to V045 for 1,080.77",V045,Vendor 045 Ltd,Finance,1080.77,2026-02-24 08:39:40,E011,E015,New
+EX00010,TX04891,Rule,Duplicate payment,1.0,High,"Invoice INV944038 paid more than once to V071 for 2,310.41",V071,Vendor 071 Ltd,Procurement,2310.41,2026-03-04 10:14:45,E036,E007,New
+EX00011,TX03849,Rule,Duplicate payment,1.0,High,Invoice INV869724 paid more than once to V036 for 210.03,V036,Vendor 036 Ltd,HR,210.03,2026-03-06 16:14:43,E031,E018,Under review
+EX00012,TX04922,Rule,Duplicate payment,1.0,High,"Invoice INV944038 paid more than once to V071 for 2,310.41",V071,Vendor 071 Ltd,Procurement,2310.41,2026-03-07 10:14:45,E036,E007,Resolved
+EX00013,TX04916,Rule,Duplicate payment,1.0,High,Invoice INV869724 paid more than once to V036 for 210.03,V036,Vendor 036 Ltd,HR,210.03,2026-03-09 16:14:43,E031,E018,New
+EX00014,TX02843,Rule,Duplicate payment,1.0,High,"Invoice INV698989 paid more than once to V047 for 3,505.40",V047,Vendor 047 Ltd,Procurement,3505.4,2026-04-01 14:46:23,E009,E005,New
+EX00015,TX04911,Rule,Duplicate payment,1.0,High,"Invoice INV698989 paid more than once to V047 for 3,505.40",V047,Vendor 047 Ltd,Procurement,3505.4,2026-04-04 14:46:23,E009,E005,New
+EX00016,TX00308,Rule,Duplicate payment,1.0,High,"Invoice INV408334 paid more than once to V060 for 5,678.26",V060,Vendor 060 Ltd,Finance,5678.26,2026-04-13 13:23:18,E017,E039,Resolved
+EX00017,TX04907,Rule,Duplicate payment,1.0,High,"Invoice INV408334 paid more than once to V060 for 5,678.26",V060,Vendor 060 Ltd,Finance,5678.26,2026-04-16 13:23:18,E017,E039,New
+EX00018,TX04661,Rule,Duplicate payment,1.0,High,"Invoice INV686319 paid more than once to V035 for 3,490.85",V035,Vendor 035 Ltd,Legal,3490.85,2026-04-21 15:10:34,E039,E001,New
+EX00019,TX04915,Rule,Duplicate payment,1.0,High,"Invoice INV686319 paid more than once to V035 for 3,490.85",V035,Vendor 035 Ltd,Legal,3490.85,2026-04-26 15:10:34,E039,E001,Resolved
+EX00020,TX03608,Rule,Duplicate payment,1.0,High,Invoice INV580127 paid more than once to V026 for 702.97,V026,Vendor 026 Ltd,IT,702.97,2026-04-29 10:46:24,E001,E005,New
+EX00021,TX04902,Rule,Duplicate payment,1.0,High,Invoice INV580127 paid more than once to V026 for 702.97,V026,Vendor 026 Ltd,IT,702.97,2026-05-02 10:46:24,E001,E005,Under review
+EX00022,TX03418,Rule,Duplicate payment,1.0,High,"Invoice INV142493 paid more than once to V066 for 5,842.71",V066,Vendor 066 Ltd,Operations,5842.71,2026-05-18 14:55:53,E012,E018,Resolved
+EX00023,TX04418,Rule,Duplicate payment,1.0,High,"Invoice INV642387 paid more than once to V056 for 1,551.17",V056,Vendor 056 Ltd,Legal,1551.17,2026-05-21 12:26:45,E027,E018,New
+EX00024,TX04904,Rule,Duplicate payment,1.0,High,"Invoice INV142493 paid more than once to V066 for 5,842.71",V066,Vendor 066 Ltd,Operations,5842.71,2026-05-21 14:55:53,E012,E018,Under review
+EX00025,TX04901,Rule,Duplicate payment,1.0,High,"Invoice INV642387 paid more than once to V056 for 1,551.17",V056,Vendor 056 Ltd,Legal,1551.17,2026-05-22 12:26:45,E027,E018,Resolved
+EX00026,TX00209,Rule,Duplicate payment,1.0,High,"Invoice INV835901 paid more than once to V052 for 2,451.97",V052,Vendor 052 Ltd,Finance,2451.97,2026-07-03 16:49:12,E027,E029,New
+EX00027,TX01511,Rule,Duplicate payment,1.0,High,Invoice INV390956 paid more than once to V025 for 595.31,V025,Vendor 025 Ltd,Legal,595.31,2026-07-06 08:20:37,E007,E036,Under review
+EX00028,TX02533,Rule,Duplicate payment,1.0,High,Invoice INV329656 paid more than once to V017 for 461.53,V017,Vendor 017 Ltd,Procurement,461.53,2026-07-06 11:03:01,E018,E010,Under review
+EX00029,TX02136,Rule,Duplicate payment,1.0,High,"Invoice INV894462 paid more than once to V038 for 5,542.56",V038,Vendor 038 Ltd,Finance,5542.56,2026-07-06 14:10:23,E023,E025,Under review
+EX00030,TX01023,Rule,Duplicate payment,1.0,High,"Invoice INV154961 paid more than once to V077 for 1,301.42",V077,Vendor 077 Ltd,Finance,1301.42,2026-07-07 09:24:59,E020,E030,New
+EX00031,TX04921,Rule,Duplicate payment,1.0,High,Invoice INV329656 paid more than once to V017 for 461.53,V017,Vendor 017 Ltd,Procurement,461.53,2026-07-07 11:03:01,E018,E010,New
+EX00032,TX04918,Rule,Duplicate payment,1.0,High,"Invoice INV154961 paid more than once to V077 for 1,301.42",V077,Vendor 077 Ltd,Finance,1301.42,2026-07-08 09:24:59,E020,E030,New
+EX00033,TX04908,Rule,Duplicate payment,1.0,High,"Invoice INV835901 paid more than once to V052 for 2,451.97",V052,Vendor 052 Ltd,Finance,2451.97,2026-07-08 16:49:12,E027,E029,New
+EX00034,TX04903,Rule,Duplicate payment,1.0,High,Invoice INV390956 paid more than once to V025 for 595.31,V025,Vendor 025 Ltd,Legal,595.31,2026-07-11 08:20:37,E007,E036,New
+EX00035,TX04923,Rule,Duplicate payment,1.0,High,"Invoice INV894462 paid more than once to V038 for 5,542.56",V038,Vendor 038 Ltd,Finance,5542.56,2026-07-11 14:10:23,E023,E025,New
+EX00036,TX00783,Rule,Duplicate payment,1.0,High,"Invoice INV721314 paid more than once to V011 for 7,925.29",V011,Vendor 011 Ltd,Legal,7925.29,2026-07-15 11:15:12,E016,E021,Resolved
+EX00037,TX04910,Rule,Duplicate payment,1.0,High,"Invoice INV721314 paid more than once to V011 for 7,925.29",V011,Vendor 011 Ltd,Legal,7925.29,2026-07-18 11:15:12,E016,E021,Under review
+EX00038,TX03611,Rule,Duplicate payment,1.0,High,"Invoice INV166517 paid more than once to V054 for 9,500.00",V054,Vendor 054 Ltd,Procurement,9500.0,2026-07-20 08:15:52,E036,E002,New
+EX00039,TX04914,Rule,Duplicate payment,1.0,High,"Invoice INV166517 paid more than once to V054 for 9,500.00",V054,Vendor 054 Ltd,Procurement,9500.0,2026-07-23 08:15:52,E036,E002,Under review
+EX00040,TX04025,Rule,Duplicate payment,1.0,High,Invoice INV959404 paid more than once to V024 for 803.84,V024,Vendor 024 Ltd,Operations,803.84,2026-08-04 09:48:06,E030,E012,New
+EX00041,TX04906,Rule,Duplicate payment,1.0,High,Invoice INV959404 paid more than once to V024 for 803.84,V024,Vendor 024 Ltd,Operations,803.84,2026-08-09 09:48:06,E030,E012,New
+EX00042,TX01512,Rule,Duplicate payment,1.0,High,"Invoice INV715354 paid more than once to V047 for 1,060.80",V047,Vendor 047 Ltd,HR,1060.8,2026-08-14 08:21:57,E021,E011,New
+EX00043,TX04912,Rule,Duplicate payment,1.0,High,"Invoice INV715354 paid more than once to V047 for 1,060.80",V047,Vendor 047 Ltd,HR,1060.8,2026-08-16 08:21:57,E021,E011,Under review
+EX00044,TX01612,Rule,Duplicate payment,1.0,High,"Invoice INV100519 paid more than once to V033 for 3,929.05",V033,Vendor 033 Ltd,Operations,3929.05,2026-08-31 11:37:16,E040,E030,New
+EX00045,TX04919,Rule,Duplicate payment,1.0,High,"Invoice INV100519 paid more than once to V033 for 3,929.05",V033,Vendor 033 Ltd,Operations,3929.05,2026-09-02 11:37:16,E040,E030,New
+EX00046,TX03630,Rule,Duplicate payment,1.0,High,"Invoice INV810074 paid more than once to V054 for 1,757.97",V054,Vendor 054 Ltd,Operations,1757.97,2026-09-16 17:34:28,E010,E009,Under review
+EX00047,TX04917,Rule,Duplicate payment,1.0,High,"Invoice INV810074 paid more than once to V054 for 1,757.97",V054,Vendor 054 Ltd,Operations,1757.97,2026-09-19 17:34:28,E010,E009,New
+EX00048,TX02242,Rule,Duplicate payment,1.0,High,"Invoice INV487167 paid more than once to V047 for 1,797.46",V047,Vendor 047 Ltd,Finance,1797.46,2026-10-01 16:06:37,E036,E026,Resolved
+EX00049,TX04925,Rule,Duplicate payment,1.0,High,"Invoice INV487167 paid more than once to V047 for 1,797.46",V047,Vendor 047 Ltd,Finance,1797.46,2026-10-04 16:06:37,E036,E026,New
+EX00050,TX04967,Rule,Split invoice,1.0,High,"9,731.87 just under the 10,000 limit, repeated same day for V014",V014,Vendor 014 Ltd,Operations,9731.87,2025-11-17 10:07:00,E003,E031,Under review
+EX00051,TX04966,Rule,Split invoice,1.0,High,"9,206.40 just under the 10,000 limit, repeated same day for V014",V014,Vendor 014 Ltd,Legal,9206.4,2025-11-17 13:01:00,E003,E031,New
+EX00052,TX04945,Rule,Split invoice,1.0,High,"9,404.61 just under the 10,000 limit, repeated same day for V014",V014,Vendor 014 Ltd,Legal,9404.61,2025-11-24 12:07:00,E027,E024,New
+EX00053,TX04944,Rule,Split invoice,1.0,High,"9,405.96 just under the 10,000 limit, repeated same day for V014",V014,Vendor 014 Ltd,Finance,9405.96,2025-11-24 15:00:00,E027,E024,Under review
+EX00054,TX04926,Rule,Split invoice,1.0,High,"9,448.07 just under the 10,000 limit, repeated same day for V038",V038,Vendor 038 Ltd,Legal,9448.07,2025-12-22 10:01:00,E038,E027,Under review
+EX00055,TX04927,Rule,Split invoice,1.0,High,"9,416.04 just under the 10,000 limit, repeated same day for V038",V038,Vendor 038 Ltd,Operations,9416.04,2025-12-22 10:43:00,E038,E027,New
+EX00056,TX04936,Rule,Split invoice,1.0,High,"9,822.03 just under the 10,000 limit, repeated same day for V031",V031,Vendor 031 Ltd,HR,9822.03,2025-12-24 09:01:00,E002,E036,New
+EX00057,TX04937,Rule,Split invoice,1.0,High,"9,266.87 just under the 10,000 limit, repeated same day for V031",V031,Vendor 031 Ltd,HR,9266.87,2025-12-24 09:15:00,E002,E036,New
+EX00058,TX04935,Rule,Split invoice,1.0,High,"9,237.69 just under the 10,000 limit, repeated same day for V031",V031,Vendor 031 Ltd,Procurement,9237.69,2025-12-24 15:46:00,E002,E036,Under review
+EX00059,TX04931,Rule,Split invoice,1.0,High,"9,278.43 just under the 10,000 limit, repeated same day for V034",V034,Vendor 034 Ltd,HR,9278.43,2026-01-08 10:28:00,E027,E033,Under review
+EX00060,TX04930,Rule,Split invoice,1.0,High,"9,339.11 just under the 10,000 limit, repeated same day for V034",V034,Vendor 034 Ltd,Legal,9339.11,2026-01-08 11:13:00,E027,E033,Under review
+EX00061,TX04932,Rule,Split invoice,1.0,High,"9,771.21 just under the 10,000 limit, repeated same day for V034",V034,Vendor 034 Ltd,HR,9771.21,2026-01-08 12:22:00,E027,E033,Resolved
+EX00062,TX04929,Rule,Split invoice,1.0,High,"9,818.03 just under the 10,000 limit, repeated same day for V055",V055,Vendor 055 Ltd,Operations,9818.03,2026-02-26 11:09:00,E026,E023,Under review
+EX00063,TX04928,Rule,Split invoice,1.0,High,"9,713.78 just under the 10,000 limit, repeated same day for V055",V055,Vendor 055 Ltd,IT,9713.78,2026-02-26 13:04:00,E026,E023,New
+EX00064,TX04956,Rule,Split invoice,1.0,High,"9,745.20 just under the 10,000 limit, repeated same day for V076",V076,Vendor 076 Ltd,Operations,9745.2,2026-03-10 09:15:00,E021,E023,New
+EX00065,TX04955,Rule,Split invoice,1.0,High,"9,576.99 just under the 10,000 limit, repeated same day for V076",V076,Vendor 076 Ltd,Finance,9576.99,2026-03-10 09:31:00,E021,E023,Under review
+EX00066,TX04954,Rule,Split invoice,1.0,High,"9,651.64 just under the 10,000 limit, repeated same day for V076",V076,Vendor 076 Ltd,Finance,9651.64,2026-03-10 16:53:00,E021,E023,New
+EX00067,TX04664,Rule,Split invoice,1.0,High,"9,500.00 just under the 10,000 limit, repeated same day for V069",V069,Vendor 069 Ltd,IT,9500.0,2026-03-26 11:34:06,E014,E013,Resolved
+EX00068,TX00089,Rule,Split invoice,1.0,High,"9,500.00 just under the 10,000 limit, repeated same day for V069",V069,Vendor 069 Ltd,Legal,9500.0,2026-03-26 14:44:09,E036,E031,Resolved
+EX00069,TX04965,Rule,Split invoice,1.0,High,"9,812.17 just under the 10,000 limit, repeated same day for V029",V029,Vendor 029 Ltd,HR,9812.17,2026-04-13 11:41:00,E018,E020,Resolved
+EX00070,TX04934,Rule,Split invoice,1.0,High,"9,249.23 just under the 10,000 limit, repeated same day for V057",V057,Vendor 057 Ltd,Procurement,9249.23,2026-04-13 13:38:00,E009,E008,New
+EX00071,TX04933,Rule,Split invoice,1.0,High,"9,724.44 just under the 10,000 limit, repeated same day for V057",V057,Vendor 057 Ltd,Operations,9724.44,2026-04-13 15:15:00,E009,E008,Resolved
+EX00072,TX04964,Rule,Split invoice,1.0,High,"9,695.74 just under the 10,000 limit, repeated same day for V029",V029,Vendor 029 Ltd,HR,9695.74,2026-04-13 15:29:00,E018,E020,New
+EX00073,TX04957,Rule,Split invoice,1.0,High,"9,835.02 just under the 10,000 limit, repeated same day for V014",V014,Vendor 014 Ltd,Procurement,9835.02,2026-04-28 10:49:00,E032,E021,New
+EX00074,TX04959,Rule,Split invoice,1.0,High,"9,830.37 just under the 10,000 limit, repeated same day for V014",V014,Vendor 014 Ltd,IT,9830.37,2026-04-28 13:38:00,E032,E021,New
+EX00075,TX04958,Rule,Split invoice,1.0,High,"9,366.90 just under the 10,000 limit, repeated same day for V014",V014,Vendor 014 Ltd,IT,9366.9,2026-04-28 15:46:00,E032,E021,Under review
+EX00076,TX04946,Rule,Split invoice,1.0,High,"9,704.53 just under the 10,000 limit, repeated same day for V044",V044,Vendor 044 Ltd,Finance,9704.53,2026-05-07 11:43:00,E022,E031,New
+EX00077,TX04947,Rule,Split invoice,1.0,High,"9,362.42 just under the 10,000 limit, repeated same day for V044",V044,Vendor 044 Ltd,Legal,9362.42,2026-05-07 14:27:00,E022,E031,New
+EX00078,TX04948,Rule,Split invoice,1.0,High,"9,659.86 just under the 10,000 limit, repeated same day for V044",V044,Vendor 044 Ltd,Procurement,9659.86,2026-05-07 16:24:00,E022,E031,New
+EX00079,TX04968,Rule,Split invoice,1.0,High,"9,576.19 just under the 10,000 limit, repeated same day for V038",V038,Vendor 038 Ltd,Operations,9576.19,2026-05-26 09:57:00,E007,E030,New
+EX00080,TX04969,Rule,Split invoice,1.0,High,"9,866.80 just under the 10,000 limit, repeated same day for V038",V038,Vendor 038 Ltd,Finance,9866.8,2026-05-26 13:35:00,E007,E030,New
+EX00081,TX04970,Rule,Split invoice,1.0,High,"9,257.27 just under the 10,000 limit, repeated same day for V038",V038,Vendor 038 Ltd,Operations,9257.27,2026-05-26 15:16:00,E007,E030,New
+EX00082,TX04972,Rule,Split invoice,1.0,High,"9,257.51 just under the 10,000 limit, repeated same day for V020",V020,Vendor 020 Ltd,Operations,9257.51,2026-06-10 09:07:00,E009,E020,New
+EX00083,TX04973,Rule,Split invoice,1.0,High,"9,745.01 just under the 10,000 limit, repeated same day for V020",V020,Vendor 020 Ltd,Operations,9745.01,2026-06-10 12:15:00,E009,E020,New
+EX00084,TX04971,Rule,Split invoice,1.0,High,"9,241.51 just under the 10,000 limit, repeated same day for V020",V020,Vendor 020 Ltd,Operations,9241.51,2026-06-10 13:36:00,E009,E020,Under review
+EX00085,TX04962,Rule,Split invoice,1.0,High,"9,659.71 just under the 10,000 limit, repeated same day for V007",V007,Vendor 007 Ltd,HR,9659.71,2026-06-29 11:03:00,E005,E024,Under review
+EX00086,TX04963,Rule,Split invoice,1.0,High,"9,677.71 just under the 10,000 limit, repeated same day for V007",V007,Vendor 007 Ltd,IT,9677.71,2026-06-29 14:46:00,E005,E024,Under review
+EX00087,TX04943,Rule,Split invoice,1.0,High,"9,706.97 just under the 10,000 limit, repeated same day for V074",V074,Vendor 074 Ltd,Procurement,9706.97,2026-07-03 13:19:00,E001,E015,New
+EX00088,TX04942,Rule,Split invoice,1.0,High,"9,331.40 just under the 10,000 limit, repeated same day for V074",V074,Vendor 074 Ltd,IT,9331.4,2026-07-03 13:42:00,E001,E015,Under review
+EX00089,TX04941,Rule,Split invoice,1.0,High,"9,731.64 just under the 10,000 limit, repeated same day for V018",V018,Vendor 018 Ltd,Procurement,9731.64,2026-07-24 13:36:00,E017,E029,Resolved
+EX00090,TX04940,Rule,Split invoice,1.0,High,"9,585.11 just under the 10,000 limit, repeated same day for V018",V018,Vendor 018 Ltd,Legal,9585.11,2026-07-24 16:41:00,E017,E029,Under review
+EX00091,TX04952,Rule,Split invoice,1.0,High,"9,650.26 just under the 10,000 limit, repeated same day for V078",V078,Vendor 078 Ltd,Operations,9650.26,2026-08-03 11:02:00,E006,E036,Resolved
+EX00092,TX04953,Rule,Split invoice,1.0,High,"9,357.38 just under the 10,000 limit, repeated same day for V078",V078,Vendor 078 Ltd,Operations,9357.38,2026-08-03 13:23:00,E006,E036,Resolved
+EX00093,TX04939,Rule,Split invoice,1.0,High,"9,216.61 just under the 10,000 limit, repeated same day for V039",V039,Vendor 039 Ltd,IT,9216.61,2026-08-10 10:28:00,E024,E006,New
+EX00094,TX04938,Rule,Split invoice,1.0,High,"9,247.41 just under the 10,000 limit, repeated same day for V039",V039,Vendor 039 Ltd,Procurement,9247.41,2026-08-10 11:19:00,E024,E006,Resolved
+EX00095,TX04960,Rule,Split invoice,1.0,High,"9,421.34 just under the 10,000 limit, repeated same day for V031",V031,Vendor 031 Ltd,HR,9421.34,2026-08-26 09:26:00,E012,E030,New
+EX00096,TX04961,Rule,Split invoice,1.0,High,"9,793.21 just under the 10,000 limit, repeated same day for V031",V031,Vendor 031 Ltd,IT,9793.21,2026-08-26 16:00:00,E012,E030,New
+EX00097,TX04951,Rule,Split invoice,1.0,High,"9,536.27 just under the 10,000 limit, repeated same day for V067",V067,Vendor 067 Ltd,HR,9536.27,2026-09-04 10:08:00,E036,E039,Under review
+EX00098,TX04950,Rule,Split invoice,1.0,High,"9,506.57 just under the 10,000 limit, repeated same day for V067",V067,Vendor 067 Ltd,Legal,9506.57,2026-09-04 14:55:00,E036,E039,Under review
+EX00099,TX04949,Rule,Split invoice,1.0,High,"9,834.36 just under the 10,000 limit, repeated same day for V067",V067,Vendor 067 Ltd,HR,9834.36,2026-09-04 16:31:00,E036,E039,New
+EX00100,TX05002,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 22:59,V073,Vendor 073 Ltd,HR,1413.55,2025-11-29 22:59:00,E028,E001,Under review
+EX00101,TX04983,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sun 03:12,V031,Vendor 031 Ltd,Operations,3279.04,2025-11-30 03:12:00,E002,E017,New
+EX00102,TX04982,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 22:05,V060,Vendor 060 Ltd,IT,6660.6,2025-12-20 22:05:00,E033,E008,New
+EX00103,TX04980,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 23:49,V012,Vendor 012 Ltd,HR,8427.15,2026-01-03 23:49:00,E007,E014,Resolved
+EX00104,TX04985,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 01:04,V020,Vendor 020 Ltd,Procurement,8599.09,2026-01-10 01:04:00,E021,E006,New
+EX00105,TX04994,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 03:54,V069,Vendor 069 Ltd,Finance,5319.69,2026-01-10 03:54:00,E040,E024,Under review
+EX00106,TX04988,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 01:43,V017,Vendor 017 Ltd,Procurement,2130.8,2026-02-14 01:43:00,E004,E003,Under review
+EX00107,TX04990,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 23:07,V018,Vendor 018 Ltd,IT,9910.52,2026-02-14 23:07:00,E036,E017,Resolved
+EX00108,TX04922,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 10:14,V071,Vendor 071 Ltd,Procurement,2310.41,2026-03-07 10:14:45,E036,E007,Under review
+EX00109,TX04981,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 14:24,V034,Vendor 034 Ltd,IT,1379.22,2026-03-07 14:24:00,E009,E017,New
+EX00110,TX04986,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 14:08,V076,Vendor 076 Ltd,Finance,8564.3,2026-03-14 14:08:00,E007,E005,New
+EX00111,TX04989,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 02:47,V057,Vendor 057 Ltd,Legal,10537.12,2026-03-21 02:47:00,E011,E029,New
+EX00112,TX05001,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 03:51,V040,Vendor 040 Ltd,Operations,2710.34,2026-03-21 03:51:00,E038,E016,New
+EX00113,TX04992,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 03:54,V011,Vendor 011 Ltd,HR,11215.77,2026-03-21 03:54:00,E010,E028,Under review
+EX00114,TX04911,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 14:46,V047,Vendor 047 Ltd,Procurement,3505.4,2026-04-04 14:46:23,E009,E005,Under review
+EX00115,TX04993,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 02:25,V041,Vendor 041 Ltd,HR,6081.01,2026-04-11 02:25:00,E014,E030,Resolved
+EX00116,TX04998,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 22:43,V066,Vendor 066 Ltd,Finance,3719.04,2026-04-11 22:43:00,E003,E033,Resolved
+EX00117,TX04974,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 03:14,V037,Vendor 037 Ltd,Legal,4547.64,2026-04-18 03:14:00,E030,E004,New
+EX00118,TX04915,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sun 15:10,V035,Vendor 035 Ltd,Legal,3490.85,2026-04-26 15:10:34,E039,E001,New
+EX00119,TX04984,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 03:13,V004,Vendor 004 Ltd,Legal,9845.69,2026-05-02 03:13:00,E025,E032,Under review
+EX00120,TX04902,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 10:46,V026,Vendor 026 Ltd,IT,702.97,2026-05-02 10:46:24,E001,E005,New
+EX00121,TX04996,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 01:44,V045,Vendor 045 Ltd,HR,9032.7,2026-05-09 01:44:00,E038,E015,New
+EX00122,TX04987,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 23:41,V032,Vendor 032 Ltd,Legal,3462.65,2026-05-16 23:41:00,E001,E033,Under review
+EX00123,TX05003,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 14:29,V017,Vendor 017 Ltd,Legal,12522.98,2026-05-23 14:29:00,E020,E036,New
+EX00124,TX04979,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 03:54,V060,Vendor 060 Ltd,Finance,6733.2,2026-05-30 03:54:00,E037,E011,Under review
+EX00125,TX04991,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 14:39,V080,Vendor 080 Ltd,HR,1477.08,2026-05-30 14:39:00,E007,E022,Resolved
+EX00126,TX04999,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 03:11,V038,Vendor 038 Ltd,Procurement,1364.19,2026-06-20 03:11:00,E014,E025,New
+EX00127,TX04978,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 22:09,V065,Vendor 065 Ltd,HR,5068.53,2026-06-20 22:09:00,E040,E039,Under review
+EX00128,TX04975,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 23:49,V049,Vendor 049 Ltd,Legal,5674.42,2026-06-27 23:49:00,E016,E009,Under review
+EX00129,TX05000,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 03:36,V033,Vendor 033 Ltd,IT,3145.11,2026-07-04 03:36:00,E032,E033,Resolved
+EX00130,TX04903,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 08:20,V025,Vendor 025 Ltd,Legal,595.31,2026-07-11 08:20:37,E007,E036,New
+EX00131,TX04923,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 14:10,V038,Vendor 038 Ltd,Finance,5542.56,2026-07-11 14:10:23,E023,E025,New
+EX00132,TX04910,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 11:15,V011,Vendor 011 Ltd,Legal,7925.29,2026-07-18 11:15:12,E016,E021,Resolved
+EX00133,TX04906,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sun 09:48,V024,Vendor 024 Ltd,Operations,803.84,2026-08-09 09:48:06,E030,E012,Resolved
+EX00134,TX04912,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sun 08:21,V047,Vendor 047 Ltd,HR,1060.8,2026-08-16 08:21:57,E021,E011,New
+EX00135,TX04976,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 14:03,V033,Vendor 033 Ltd,HR,4766.72,2026-08-22 14:03:00,E040,E031,New
+EX00136,TX04995,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 02:22,V025,Vendor 025 Ltd,Procurement,3000.53,2026-08-29 02:22:00,E020,E003,Under review
+EX00137,TX04997,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 03:01,V067,Vendor 067 Ltd,Finance,3729.44,2026-09-19 03:01:00,E022,E011,Resolved
+EX00138,TX04917,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 17:34,V054,Vendor 054 Ltd,Operations,1757.97,2026-09-19 17:34:28,E010,E009,New
+EX00139,TX04977,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sat 01:51,V030,Vendor 030 Ltd,HR,3564.19,2026-09-26 01:51:00,E004,E018,Under review
+EX00140,TX04925,Rule,Off-hours approval,1.0,Medium,Approved on weekend at Sun 16:06,V047,Vendor 047 Ltd,Finance,1797.46,2026-10-04 16:06:37,E036,E026,Resolved
+EX00141,TX05018,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E018),V028,Vendor 028 Ltd,HR,456.23,2025-11-13 12:25:00,E018,E018,Under review
+EX00142,TX05028,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E008),V018,Vendor 018 Ltd,Operations,6912.16,2025-11-24 09:31:00,E008,E008,New
+EX00143,TX05021,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E024),V021,Vendor 021 Ltd,HR,3447.11,2025-12-22 15:14:00,E024,E024,New
+EX00144,TX05022,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E006),V045,Vendor 045 Ltd,Finance,5597.82,2026-01-02 11:45:00,E006,E006,New
+EX00145,TX05016,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E008),V025,Vendor 025 Ltd,Legal,2074.84,2026-01-28 10:31:00,E008,E008,Resolved
+EX00146,TX05010,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E019),V051,Vendor 051 Ltd,Finance,3332.62,2026-02-12 12:08:00,E019,E019,New
+EX00147,TX05004,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E024),V060,Vendor 060 Ltd,HR,3687.33,2026-02-16 12:50:00,E024,E024,New
+EX00148,TX05008,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E040),V033,Vendor 033 Ltd,Operations,2650.74,2026-02-23 09:28:00,E040,E040,New
+EX00149,TX05011,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E004),V075,Vendor 075 Ltd,IT,4311.43,2026-02-27 12:43:00,E004,E004,New
+EX00150,TX05006,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E002),V060,Vendor 060 Ltd,Procurement,2049.47,2026-03-11 14:16:00,E002,E002,New
+EX00151,TX05014,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E038),V054,Vendor 054 Ltd,Legal,10554.95,2026-03-16 13:21:00,E038,E038,New
+EX00152,TX05026,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E021),V030,Vendor 030 Ltd,Legal,2722.53,2026-03-16 16:12:00,E021,E021,Under review
+EX00153,TX05020,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E002),V036,Vendor 036 Ltd,Legal,1554.23,2026-03-23 15:21:00,E002,E002,Under review
+EX00154,TX05005,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E023),V049,Vendor 049 Ltd,Finance,1483.28,2026-03-30 10:08:00,E023,E023,New
+EX00155,TX05015,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E039),V080,Vendor 080 Ltd,IT,3664.11,2026-05-01 16:46:00,E039,E039,New
+EX00156,TX05013,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E037),V032,Vendor 032 Ltd,Operations,9081.72,2026-05-04 10:50:00,E037,E037,New
+EX00157,TX05009,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E010),V047,Vendor 047 Ltd,Legal,7047.45,2026-05-25 10:45:00,E010,E010,Under review
+EX00158,TX05017,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E010),V014,Vendor 014 Ltd,HR,3726.88,2026-06-15 12:08:00,E010,E010,Resolved
+EX00159,TX05019,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E009),V014,Vendor 014 Ltd,Operations,5011.56,2026-07-02 15:58:00,E009,E009,Resolved
+EX00160,TX05025,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E032),V035,Vendor 035 Ltd,Procurement,4820.29,2026-07-06 12:39:00,E032,E032,New
+EX00161,TX05012,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E039),V034,Vendor 034 Ltd,IT,3343.2,2026-07-20 11:29:00,E039,E039,New
+EX00162,TX05027,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E029),V078,Vendor 078 Ltd,Operations,7685.29,2026-07-27 11:05:00,E029,E029,Resolved
+EX00163,TX05024,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E022),V022,Vendor 022 Ltd,HR,2960.43,2026-08-28 11:28:00,E022,E022,Resolved
+EX00164,TX05023,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E035),V005,Vendor 005 Ltd,Operations,2699.43,2026-09-07 13:43:00,E035,E035,New
+EX00165,TX05007,Rule,Self-approval,1.0,Critical,Requester and approver are the same person (E013),V006,Vendor 006 Ltd,Finance,2679.61,2026-09-07 15:03:00,E013,E013,Under review
+EX00166,TX05042,Rule,New vendor large payment,1.0,High,"Vendor only 2 days old paid 73,948.70",V044,Vendor 044 Ltd,HR,73948.7,2025-11-03 13:21:00,E035,E022,Resolved
+EX00167,TX05039,Rule,New vendor large payment,1.0,High,"Vendor only 15 days old paid 82,589.31",V056,Vendor 056 Ltd,Finance,82589.31,2025-12-01 13:04:00,E034,E036,Under review
+EX00168,TX05030,Rule,New vendor large payment,1.0,High,"Vendor only 6 days old paid 41,160.71",V046,Vendor 046 Ltd,Operations,41160.71,2025-12-05 09:22:00,E014,E033,Resolved
+EX00169,TX05046,Rule,New vendor large payment,1.0,High,"Vendor only 10 days old paid 41,951.37",V063,Vendor 063 Ltd,Operations,41951.37,2026-01-14 12:59:00,E017,E027,New
+EX00170,TX05035,Rule,New vendor large payment,1.0,High,"Vendor only 6 days old paid 67,588.58",V004,Vendor 004 Ltd,HR,67588.58,2026-01-19 16:05:00,E004,E032,New
+EX00171,TX05040,Rule,New vendor large payment,1.0,High,"Vendor only 15 days old paid 86,543.10",V036,Vendor 036 Ltd,Finance,86543.1,2026-01-26 09:03:00,E022,E001,New
+EX00172,TX05043,Rule,New vendor large payment,1.0,High,"Vendor only 15 days old paid 65,431.60",V051,Vendor 051 Ltd,Operations,65431.6,2026-01-30 15:08:00,E019,E030,New
+EX00173,TX05033,Rule,New vendor large payment,1.0,High,"Vendor only 6 days old paid 45,237.16",V011,Vendor 011 Ltd,Legal,45237.16,2026-02-09 14:03:00,E040,E031,Resolved
+EX00174,TX05045,Rule,New vendor large payment,1.0,High,"Vendor only 2 days old paid 74,753.14",V071,Vendor 071 Ltd,IT,74753.14,2026-02-24 14:58:00,E003,E021,New
+EX00175,TX05037,Rule,New vendor large payment,1.0,High,"Vendor only 4 days old paid 77,694.92",V010,Vendor 010 Ltd,IT,77694.92,2026-03-02 16:22:00,E003,E010,Under review
+EX00176,TX05029,Rule,New vendor large payment,1.0,High,"Vendor only 11 days old paid 58,925.13",V033,Vendor 033 Ltd,Legal,58925.13,2026-03-12 15:50:00,E011,E005,New
+EX00177,TX05041,Rule,New vendor large payment,1.0,High,"Vendor only 11 days old paid 70,543.41",V045,Vendor 045 Ltd,HR,70543.41,2026-06-05 16:20:00,E033,E036,New
+EX00178,TX05044,Rule,New vendor large payment,1.0,High,"Vendor only 5 days old paid 84,232.68",V014,Vendor 014 Ltd,HR,84232.68,2026-06-08 13:49:00,E012,E034,New
+EX00179,TX05038,Rule,New vendor large payment,1.0,High,"Vendor only 18 days old paid 37,850.55",V080,Vendor 080 Ltd,Finance,37850.55,2026-06-17 12:00:00,E030,E024,New
+EX00180,TX05032,Rule,New vendor large payment,1.0,High,"Vendor only 5 days old paid 55,359.72",V027,Vendor 027 Ltd,Procurement,55359.72,2026-07-02 12:06:00,E024,E004,Under review
+EX00181,TX05048,Rule,New vendor large payment,1.0,High,"Vendor only 17 days old paid 82,005.84",V072,Vendor 072 Ltd,Legal,82005.84,2026-08-12 15:36:00,E003,E030,Under review
+EX00182,TX05031,Rule,New vendor large payment,1.0,High,"Vendor only 19 days old paid 61,147.40",V025,Vendor 025 Ltd,Finance,61147.4,2026-08-18 12:01:00,E001,E037,New
+EX00183,TX05047,Rule,New vendor large payment,1.0,High,"Vendor only 9 days old paid 75,967.25",V014,Vendor 014 Ltd,Operations,75967.25,2026-08-21 15:28:00,E039,E013,Under review
+EX00184,TX05036,Rule,New vendor large payment,1.0,High,"Vendor only 14 days old paid 36,699.20",V036,Vendor 036 Ltd,IT,36699.2,2026-08-27 14:36:00,E008,E035,New
+EX00185,TX05034,Rule,New vendor large payment,1.0,High,"Vendor only 20 days old paid 34,709.55",V004,Vendor 004 Ltd,HR,34709.55,2026-09-07 09:00:00,E030,E024,New
+EX00186,TX05042,Isolation Forest,Statistical outlier,0.5719,Medium,"Unusual mix of amount (73,948.70), timing and vendor profile",V044,Vendor 044 Ltd,HR,73948.7,2025-11-03 13:21:00,E035,E022,New
+EX00187,TX03662,Isolation Forest,Statistical outlier,0.5694,Medium,"Unusual mix of amount (140.45), timing and vendor profile",V072,Vendor 072 Ltd,IT,140.45,2025-11-04 15:07:52,E028,E016,New
+EX00188,TX04240,Isolation Forest,Statistical outlier,0.5702,Medium,"Unusual mix of amount (293.56), timing and vendor profile",V076,Vendor 076 Ltd,HR,293.56,2025-11-06 11:57:53,E013,E028,New
+EX00189,TX01330,Isolation Forest,Statistical outlier,0.5703,Medium,"Unusual mix of amount (2,808.11), timing and vendor profile",V076,Vendor 076 Ltd,Finance,2808.11,2025-11-07 15:02:54,E014,E020,Resolved
+EX00190,TX02082,Isolation Forest,Statistical outlier,0.5776,Medium,"Unusual mix of amount (949.39), timing and vendor profile",V033,Vendor 033 Ltd,Procurement,949.39,2025-11-10 09:36:20,E007,E017,Resolved
+EX00191,TX04051,Isolation Forest,Statistical outlier,0.5727,Medium,"Unusual mix of amount (5,596.31), timing and vendor profile",V033,Vendor 033 Ltd,Finance,5596.31,2025-11-10 13:45:51,E015,E021,New
+EX00192,TX05018,Isolation Forest,Statistical outlier,0.6139,High,"Unusual mix of amount (456.23), timing and vendor profile",V028,Vendor 028 Ltd,HR,456.23,2025-11-13 12:25:00,E018,E018,New
+EX00193,TX01507,Isolation Forest,Statistical outlier,0.6076,Medium,"Unusual mix of amount (397.39), timing and vendor profile",V033,Vendor 033 Ltd,IT,397.39,2025-11-14 12:41:19,E031,E026,New
+EX00194,TX02578,Isolation Forest,Statistical outlier,0.5716,Medium,"Unusual mix of amount (416.79), timing and vendor profile",V023,Vendor 023 Ltd,Legal,416.79,2025-11-17 08:58:38,E010,E032,New
+EX00195,TX01405,Isolation Forest,Statistical outlier,0.5864,Medium,"Unusual mix of amount (1,042.53), timing and vendor profile",V033,Vendor 033 Ltd,Legal,1042.53,2025-11-17 17:17:09,E024,E018,New
+EX00196,TX04859,Isolation Forest,Statistical outlier,0.5807,Medium,"Unusual mix of amount (9,198.98), timing and vendor profile",V068,Vendor 068 Ltd,Finance,9198.98,2025-11-20 08:26:15,E004,E017,Under review
+EX00197,TX00604,Isolation Forest,Statistical outlier,0.5772,Medium,"Unusual mix of amount (330.11), timing and vendor profile",V050,Vendor 050 Ltd,Finance,330.11,2025-11-20 10:01:08,E031,E004,Resolved
+EX00198,TX04834,Isolation Forest,Statistical outlier,0.571,Medium,"Unusual mix of amount (3,806.68), timing and vendor profile",V033,Vendor 033 Ltd,Operations,3806.68,2025-11-21 10:38:59,E018,E037,New
+EX00199,TX05028,Isolation Forest,Statistical outlier,0.5892,Medium,"Unusual mix of amount (6,912.16), timing and vendor profile",V018,Vendor 018 Ltd,Operations,6912.16,2025-11-24 09:31:00,E008,E008,Under review
+EX00200,TX04814,Isolation Forest,Statistical outlier,0.5708,Medium,"Unusual mix of amount (311.21), timing and vendor profile",V072,Vendor 072 Ltd,Finance,311.21,2025-11-27 17:17:09,E037,E001,Under review
+EX00201,TX02471,Isolation Forest,Statistical outlier,0.5667,Medium,"Unusual mix of amount (6,831.10), timing and vendor profile",V062,Vendor 062 Ltd,IT,6831.1,2025-11-28 14:37:03,E021,E001,Under review
+EX00202,TX05002,Isolation Forest,Statistical outlier,0.5749,Medium,"Unusual mix of amount (1,413.55), timing and vendor profile",V073,Vendor 073 Ltd,HR,1413.55,2025-11-29 22:59:00,E028,E001,New
+EX00203,TX04983,Isolation Forest,Statistical outlier,0.6081,Medium,"Unusual mix of amount (3,279.04), timing and vendor profile",V031,Vendor 031 Ltd,Operations,3279.04,2025-11-30 03:12:00,E002,E017,Under review
+EX00204,TX05039,Isolation Forest,Statistical outlier,0.6119,High,"Unusual mix of amount (82,589.31), timing and vendor profile",V056,Vendor 056 Ltd,Finance,82589.31,2025-12-01 13:04:00,E034,E036,Resolved
+EX00205,TX03774,Isolation Forest,Statistical outlier,0.5861,Medium,"Unusual mix of amount (169.41), timing and vendor profile",V027,Vendor 027 Ltd,Finance,169.41,2025-12-05 09:20:25,E031,E014,Under review
+EX00206,TX05030,Isolation Forest,Statistical outlier,0.595,Medium,"Unusual mix of amount (41,160.71), timing and vendor profile",V046,Vendor 046 Ltd,Operations,41160.71,2025-12-05 09:22:00,E014,E033,New
+EX00207,TX00275,Isolation Forest,Statistical outlier,0.6013,Medium,"Unusual mix of amount (159.62), timing and vendor profile",V076,Vendor 076 Ltd,Procurement,159.62,2025-12-08 09:42:01,E023,E036,Under review
+EX00208,TX01032,Isolation Forest,Statistical outlier,0.5884,Medium,"Unusual mix of amount (3,453.20), timing and vendor profile",V023,Vendor 023 Ltd,Legal,3453.2,2025-12-08 17:20:00,E025,E009,Under review
+EX00209,TX01747,Isolation Forest,Statistical outlier,0.589,Medium,"Unusual mix of amount (180.17), timing and vendor profile",V064,Vendor 064 Ltd,IT,180.17,2025-12-11 13:35:08,E031,E025,Under review
+EX00210,TX01887,Isolation Forest,Statistical outlier,0.5695,Medium,"Unusual mix of amount (173.51), timing and vendor profile",V022,Vendor 022 Ltd,Legal,173.51,2025-12-11 17:00:43,E017,E037,New
+EX00211,TX04222,Isolation Forest,Statistical outlier,0.5796,Medium,"Unusual mix of amount (256.10), timing and vendor profile",V062,Vendor 062 Ltd,HR,256.1,2025-12-12 09:47:57,E016,E038,Resolved
+EX00212,TX04764,Isolation Forest,Statistical outlier,0.5829,Medium,"Unusual mix of amount (1,891.65), timing and vendor profile",V033,Vendor 033 Ltd,Procurement,1891.65,2025-12-12 12:27:09,E023,E013,Resolved
+EX00213,TX02349,Isolation Forest,Statistical outlier,0.5855,Medium,"Unusual mix of amount (9,500.00), timing and vendor profile",V076,Vendor 076 Ltd,IT,9500.0,2025-12-15 09:28:43,E002,E036,New
+EX00214,TX04835,Isolation Forest,Statistical outlier,0.5742,Medium,"Unusual mix of amount (5,135.11), timing and vendor profile",V076,Vendor 076 Ltd,Legal,5135.11,2025-12-19 09:11:21,E036,E011,Under review
+EX00215,TX04982,Isolation Forest,Statistical outlier,0.6131,High,"Unusual mix of amount (6,660.60), timing and vendor profile",V060,Vendor 060 Ltd,IT,6660.6,2025-12-20 22:05:00,E033,E008,New
+EX00216,TX04315,Isolation Forest,Statistical outlier,0.5753,Medium,"Unusual mix of amount (883.13), timing and vendor profile",V033,Vendor 033 Ltd,HR,883.13,2025-12-25 09:54:31,E019,E032,Resolved
+EX00217,TX02920,Isolation Forest,Statistical outlier,0.5894,Medium,"Unusual mix of amount (192.67), timing and vendor profile",V008,Vendor 008 Ltd,Procurement,192.67,2025-12-26 09:45:24,E033,E025,Resolved
+EX00218,TX04345,Isolation Forest,Statistical outlier,0.573,Medium,"Unusual mix of amount (9,500.00), timing and vendor profile",V032,Vendor 032 Ltd,Procurement,9500.0,2025-12-26 16:29:41,E025,E002,Under review
+EX00219,TX04568,Isolation Forest,Statistical outlier,0.5789,Medium,"Unusual mix of amount (512.83), timing and vendor profile",V080,Vendor 080 Ltd,Legal,512.83,2025-12-26 17:17:46,E006,E021,Under review
+EX00220,TX05022,Isolation Forest,Statistical outlier,0.6109,High,"Unusual mix of amount (5,597.82), timing and vendor profile",V045,Vendor 045 Ltd,Finance,5597.82,2026-01-02 11:45:00,E006,E006,New
+EX00221,TX04980,Isolation Forest,Statistical outlier,0.6017,Medium,"Unusual mix of amount (8,427.15), timing and vendor profile",V012,Vendor 012 Ltd,HR,8427.15,2026-01-03 23:49:00,E007,E014,New
+EX00222,TX01097,Isolation Forest,Statistical outlier,0.5793,Medium,"Unusual mix of amount (616.28), timing and vendor profile",V056,Vendor 056 Ltd,Procurement,616.28,2026-01-09 08:07:59,E033,E022,New
+EX00223,TX04985,Isolation Forest,Statistical outlier,0.6255,High,"Unusual mix of amount (8,599.09), timing and vendor profile",V020,Vendor 020 Ltd,Procurement,8599.09,2026-01-10 01:04:00,E021,E006,Under review
+EX00224,TX04994,Isolation Forest,Statistical outlier,0.6195,High,"Unusual mix of amount (5,319.69), timing and vendor profile",V069,Vendor 069 Ltd,Finance,5319.69,2026-01-10 03:54:00,E040,E024,New
+EX00225,TX05046,Isolation Forest,Statistical outlier,0.5663,Medium,"Unusual mix of amount (41,951.37), timing and vendor profile",V063,Vendor 063 Ltd,Operations,41951.37,2026-01-14 12:59:00,E017,E027,Resolved
+EX00226,TX02146,Isolation Forest,Statistical outlier,0.5771,Medium,"Unusual mix of amount (245.34), timing and vendor profile",V042,Vendor 042 Ltd,Procurement,245.34,2026-01-16 15:13:07,E009,E027,New
+EX00227,TX05035,Isolation Forest,Statistical outlier,0.5825,Medium,"Unusual mix of amount (67,588.58), timing and vendor profile",V004,Vendor 004 Ltd,HR,67588.58,2026-01-19 16:05:00,E004,E032,New
+EX00228,TX05040,Isolation Forest,Statistical outlier,0.6045,Medium,"Unusual mix of amount (86,543.10), timing and vendor profile",V036,Vendor 036 Ltd,Finance,86543.1,2026-01-26 09:03:00,E022,E001,New
+EX00229,TX05043,Isolation Forest,Statistical outlier,0.5944,Medium,"Unusual mix of amount (65,431.60), timing and vendor profile",V051,Vendor 051 Ltd,Operations,65431.6,2026-01-30 15:08:00,E019,E030,Under review
+EX00230,TX00078,Isolation Forest,Statistical outlier,0.5727,Medium,"Unusual mix of amount (696.95), timing and vendor profile",V023,Vendor 023 Ltd,Finance,696.95,2026-01-30 16:47:56,E003,E013,Resolved
+EX00231,TX04076,Isolation Forest,Statistical outlier,0.5684,Medium,"Unusual mix of amount (1,978.11), timing and vendor profile",V076,Vendor 076 Ltd,Procurement,1978.11,2026-02-05 09:32:27,E004,E030,Under review
+EX00232,TX01816,Isolation Forest,Statistical outlier,0.5689,Medium,"Unusual mix of amount (1,422.27), timing and vendor profile",V033,Vendor 033 Ltd,IT,1422.27,2026-02-06 13:47:17,E016,E035,New
+EX00233,TX01695,Isolation Forest,Statistical outlier,0.5825,Medium,"Unusual mix of amount (201.35), timing and vendor profile",V011,Vendor 011 Ltd,Finance,201.35,2026-02-06 16:21:30,E027,E017,Under review
+EX00234,TX00460,Isolation Forest,Statistical outlier,0.574,Medium,"Unusual mix of amount (790.93), timing and vendor profile",V033,Vendor 033 Ltd,IT,790.93,2026-02-09 13:23:25,E036,E037,New
+EX00235,TX05033,Isolation Forest,Statistical outlier,0.5686,Medium,"Unusual mix of amount (45,237.16), timing and vendor profile",V011,Vendor 011 Ltd,Legal,45237.16,2026-02-09 14:03:00,E040,E031,Resolved
+EX00236,TX01379,Isolation Forest,Statistical outlier,0.5838,Medium,"Unusual mix of amount (158.71), timing and vendor profile",V026,Vendor 026 Ltd,IT,158.71,2026-02-11 08:02:56,E022,E028,Under review
+EX00237,TX05010,Isolation Forest,Statistical outlier,0.5744,Medium,"Unusual mix of amount (3,332.62), timing and vendor profile",V051,Vendor 051 Ltd,Finance,3332.62,2026-02-12 12:08:00,E019,E019,New
+EX00238,TX04988,Isolation Forest,Statistical outlier,0.5879,Medium,"Unusual mix of amount (2,130.80), timing and vendor profile",V017,Vendor 017 Ltd,Procurement,2130.8,2026-02-14 01:43:00,E004,E003,Under review
+EX00239,TX04990,Isolation Forest,Statistical outlier,0.6072,Medium,"Unusual mix of amount (9,910.52), timing and vendor profile",V018,Vendor 018 Ltd,IT,9910.52,2026-02-14 23:07:00,E036,E017,Under review
+EX00240,TX00368,Isolation Forest,Statistical outlier,0.5717,Medium,"Unusual mix of amount (4,504.95), timing and vendor profile",V033,Vendor 033 Ltd,Finance,4504.95,2026-02-17 16:16:52,E009,E012,New
+EX00241,TX03407,Isolation Forest,Statistical outlier,0.5686,Medium,"Unusual mix of amount (279.21), timing and vendor profile",V028,Vendor 028 Ltd,IT,279.21,2026-02-19 08:04:19,E016,E006,Resolved
+EX00242,TX03231,Isolation Forest,Statistical outlier,0.5705,Medium,"Unusual mix of amount (9,500.00), timing and vendor profile",V003,Vendor 003 Ltd,Finance,9500.0,2026-02-20 16:59:21,E022,E015,New
+EX00243,TX05008,Isolation Forest,Statistical outlier,0.6426,High,"Unusual mix of amount (2,650.74), timing and vendor profile",V033,Vendor 033 Ltd,Operations,2650.74,2026-02-23 09:28:00,E040,E040,Resolved
+EX00244,TX05045,Isolation Forest,Statistical outlier,0.5779,Medium,"Unusual mix of amount (74,753.14), timing and vendor profile",V071,Vendor 071 Ltd,IT,74753.14,2026-02-24 14:58:00,E003,E021,Resolved
+EX00245,TX05011,Isolation Forest,Statistical outlier,0.5999,Medium,"Unusual mix of amount (4,311.43), timing and vendor profile",V075,Vendor 075 Ltd,IT,4311.43,2026-02-27 12:43:00,E004,E004,New
+EX00246,TX05037,Isolation Forest,Statistical outlier,0.5887,Medium,"Unusual mix of amount (77,694.92), timing and vendor profile",V010,Vendor 010 Ltd,IT,77694.92,2026-03-02 16:22:00,E003,E010,Under review
+EX00247,TX03726,Isolation Forest,Statistical outlier,0.575,Medium,"Unusual mix of amount (1,063.26), timing and vendor profile",V023,Vendor 023 Ltd,Finance,1063.26,2026-03-05 17:17:19,E012,E038,New
+EX00248,TX03849,Isolation Forest,Statistical outlier,0.5761,Medium,"Unusual mix of amount (210.03), timing and vendor profile",V036,Vendor 036 Ltd,HR,210.03,2026-03-06 16:14:43,E031,E018,Under review
+EX00249,TX02870,Isolation Forest,Statistical outlier,0.5767,Medium,"Unusual mix of amount (9,500.00), timing and vendor profile",V008,Vendor 008 Ltd,Finance,9500.0,2026-03-09 08:56:11,E014,E015,Under review
+EX00250,TX04956,Isolation Forest,Statistical outlier,0.5744,Medium,"Unusual mix of amount (9,745.20), timing and vendor profile",V076,Vendor 076 Ltd,Operations,9745.2,2026-03-10 09:15:00,E021,E023,New
+EX00251,TX04955,Isolation Forest,Statistical outlier,0.5689,Medium,"Unusual mix of amount (9,576.99), timing and vendor profile",V076,Vendor 076 Ltd,Finance,9576.99,2026-03-10 09:31:00,E021,E023,Resolved
+EX00252,TX00568,Isolation Forest,Statistical outlier,0.5831,Medium,"Unusual mix of amount (1,088.25), timing and vendor profile",V023,Vendor 023 Ltd,Legal,1088.25,2026-03-11 17:55:35,E010,E012,New
+EX00253,TX05029,Isolation Forest,Statistical outlier,0.6512,High,"Unusual mix of amount (58,925.13), timing and vendor profile",V033,Vendor 033 Ltd,Legal,58925.13,2026-03-12 15:50:00,E011,E005,Under review
+EX00254,TX00975,Isolation Forest,Statistical outlier,0.6129,High,"Unusual mix of amount (181.54), timing and vendor profile",V023,Vendor 023 Ltd,IT,181.54,2026-03-12 16:15:42,E012,E014,New
+EX00255,TX01952,Isolation Forest,Statistical outlier,0.5693,Medium,"Unusual mix of amount (8,160.36), timing and vendor profile",V050,Vendor 050 Ltd,Operations,8160.36,2026-03-13 13:01:44,E032,E034,New
+EX00256,TX04986,Isolation Forest,Statistical outlier,0.6437,High,"Unusual mix of amount (8,564.30), timing and vendor profile",V076,Vendor 076 Ltd,Finance,8564.3,2026-03-14 14:08:00,E007,E005,Under review
+EX00257,TX00101,Isolation Forest,Statistical outlier,0.5675,Medium,"Unusual mix of amount (462.35), timing and vendor profile",V054,Vendor 054 Ltd,HR,462.35,2026-03-16 10:17:33,E013,E008,Under review
+EX00258,TX05014,Isolation Forest,Statistical outlier,0.6518,High,"Unusual mix of amount (10,554.95), timing and vendor profile",V054,Vendor 054 Ltd,Legal,10554.95,2026-03-16 13:21:00,E038,E038,Resolved
+EX00259,TX05026,Isolation Forest,Statistical outlier,0.5766,Medium,"Unusual mix of amount (2,722.53), timing and vendor profile",V030,Vendor 030 Ltd,Legal,2722.53,2026-03-16 16:12:00,E021,E021,Under review
+EX00260,TX04823,Isolation Forest,Statistical outlier,0.5791,Medium,"Unusual mix of amount (343.12), timing and vendor profile",V068,Vendor 068 Ltd,Operations,343.12,2026-03-19 09:27:36,E030,E018,New
+EX00261,TX01653,Isolation Forest,Statistical outlier,0.5685,Medium,"Unusual mix of amount (119.40), timing and vendor profile",V003,Vendor 003 Ltd,Finance,119.4,2026-03-20 15:16:26,E033,E008,Resolved
+EX00262,TX01222,Isolation Forest,Statistical outlier,0.5693,Medium,"Unusual mix of amount (4,078.73), timing and vendor profile",V050,Vendor 050 Ltd,Procurement,4078.73,2026-03-20 17:54:30,E028,E003,New
+EX00263,TX04989,Isolation Forest,Statistical outlier,0.6333,High,"Unusual mix of amount (10,537.12), timing and vendor profile",V057,Vendor 057 Ltd,Legal,10537.12,2026-03-21 02:47:00,E011,E029,New
+EX00264,TX05001,Isolation Forest,Statistical outlier,0.5925,Medium,"Unusual mix of amount (2,710.34), timing and vendor profile",V040,Vendor 040 Ltd,Operations,2710.34,2026-03-21 03:51:00,E038,E016,Under review
+EX00265,TX04992,Isolation Forest,Statistical outlier,0.631,High,"Unusual mix of amount (11,215.77), timing and vendor profile",V011,Vendor 011 Ltd,HR,11215.77,2026-03-21 03:54:00,E010,E028,New
+EX00266,TX05020,Isolation Forest,Statistical outlier,0.6038,Medium,"Unusual mix of amount (1,554.23), timing and vendor profile",V036,Vendor 036 Ltd,Legal,1554.23,2026-03-23 15:21:00,E002,E002,New
+EX00267,TX02501,Isolation Forest,Statistical outlier,0.6084,High,"Unusual mix of amount (276.35), timing and vendor profile",V050,Vendor 050 Ltd,Finance,276.35,2026-03-26 17:21:00,E010,E003,Resolved
+EX00268,TX02101,Isolation Forest,Statistical outlier,0.5688,Medium,"Unusual mix of amount (891.24), timing and vendor profile",V023,Vendor 023 Ltd,Legal,891.24,2026-03-27 08:10:05,E024,E003,New
+EX00269,TX00112,Isolation Forest,Statistical outlier,0.5863,Medium,"Unusual mix of amount (2,171.38), timing and vendor profile",V076,Vendor 076 Ltd,Legal,2171.38,2026-03-27 17:38:37,E003,E006,Resolved
+EX00270,TX05005,Isolation Forest,Statistical outlier,0.5671,Medium,"Unusual mix of amount (1,483.28), timing and vendor profile",V049,Vendor 049 Ltd,Finance,1483.28,2026-03-30 10:08:00,E023,E023,Under review
+EX00271,TX04762,Isolation Forest,Statistical outlier,0.5664,Medium,"Unusual mix of amount (2,719.56), timing and vendor profile",V033,Vendor 033 Ltd,HR,2719.56,2026-04-03 15:41:01,E028,E017,New
+EX00272,TX04993,Isolation Forest,Statistical outlier,0.613,High,"Unusual mix of amount (6,081.01), timing and vendor profile",V041,Vendor 041 Ltd,HR,6081.01,2026-04-11 02:25:00,E014,E030,New
+EX00273,TX04998,Isolation Forest,Statistical outlier,0.61,High,"Unusual mix of amount (3,719.04), timing and vendor profile",V066,Vendor 066 Ltd,Finance,3719.04,2026-04-11 22:43:00,E003,E033,New
+EX00274,TX00002,Isolation Forest,Statistical outlier,0.5699,Medium,"Unusual mix of amount (4,287.01), timing and vendor profile",V033,Vendor 033 Ltd,Finance,4287.01,2026-04-13 10:52:06,E013,E040,Resolved
+EX00275,TX03625,Isolation Forest,Statistical outlier,0.5985,Medium,"Unusual mix of amount (278.65), timing and vendor profile",V023,Vendor 023 Ltd,Operations,278.65,2026-04-14 10:48:31,E028,E017,New
+EX00276,TX04636,Isolation Forest,Statistical outlier,0.5703,Medium,"Unusual mix of amount (2,804.55), timing and vendor profile",V033,Vendor 033 Ltd,HR,2804.55,2026-04-15 09:13:30,E020,E006,New
+EX00277,TX03358,Isolation Forest,Statistical outlier,0.5932,Medium,"Unusual mix of amount (224.86), timing and vendor profile",V056,Vendor 056 Ltd,Operations,224.86,2026-04-16 08:11:00,E017,E039,New
+EX00278,TX01008,Isolation Forest,Statistical outlier,0.5788,Medium,"Unusual mix of amount (9,352.59), timing and vendor profile",V076,Vendor 076 Ltd,Procurement,9352.59,2026-04-17 15:10:08,E039,E037,Resolved
+EX00279,TX04358,Isolation Forest,Statistical outlier,0.5666,Medium,"Unusual mix of amount (1,839.80), timing and vendor profile",V023,Vendor 023 Ltd,HR,1839.8,2026-04-17 15:47:42,E015,E014,New
+EX00280,TX04974,Isolation Forest,Statistical outlier,0.6186,High,"Unusual mix of amount (4,547.64), timing and vendor profile",V037,Vendor 037 Ltd,Legal,4547.64,2026-04-18 03:14:00,E030,E004,Under review
+EX00281,TX02911,Isolation Forest,Statistical outlier,0.5818,Medium,"Unusual mix of amount (260.57), timing and vendor profile",V033,Vendor 033 Ltd,HR,260.57,2026-04-20 12:38:31,E023,E011,New
+EX00282,TX01445,Isolation Forest,Statistical outlier,0.5686,Medium,"Unusual mix of amount (260.70), timing and vendor profile",V036,Vendor 036 Ltd,Legal,260.7,2026-04-22 14:31:19,E017,E006,Resolved
+EX00283,TX04619,Isolation Forest,Statistical outlier,0.5726,Medium,"Unusual mix of amount (273.30), timing and vendor profile",V046,Vendor 046 Ltd,Operations,273.3,2026-04-28 08:14:13,E026,E025,Under review
+EX00284,TX04274,Isolation Forest,Statistical outlier,0.5752,Medium,"Unusual mix of amount (7,743.97), timing and vendor profile",V033,Vendor 033 Ltd,Operations,7743.97,2026-04-29 11:28:44,E036,E030,New
+EX00285,TX01822,Isolation Forest,Statistical outlier,0.58,Medium,"Unusual mix of amount (530.14), timing and vendor profile",V050,Vendor 050 Ltd,Operations,530.14,2026-04-30 15:28:15,E010,E011,Resolved
+EX00286,TX05015,Isolation Forest,Statistical outlier,0.601,Medium,"Unusual mix of amount (3,664.11), timing and vendor profile",V080,Vendor 080 Ltd,IT,3664.11,2026-05-01 16:46:00,E039,E039,New
+EX00287,TX01526,Isolation Forest,Statistical outlier,0.5963,Medium,"Unusual mix of amount (7,621.91), timing and vendor profile",V076,Vendor 076 Ltd,Finance,7621.91,2026-05-01 17:20:23,E024,E038,Under review
+EX00288,TX04984,Isolation Forest,Statistical outlier,0.6213,High,"Unusual mix of amount (9,845.69), timing and vendor profile",V004,Vendor 004 Ltd,Legal,9845.69,2026-05-02 03:13:00,E025,E032,Under review
+EX00289,TX05013,Isolation Forest,Statistical outlier,0.6005,Medium,"Unusual mix of amount (9,081.72), timing and vendor profile",V032,Vendor 032 Ltd,Operations,9081.72,2026-05-04 10:50:00,E037,E037,New
+EX00290,TX04996,Isolation Forest,Statistical outlier,0.6231,High,"Unusual mix of amount (9,032.70), timing and vendor profile",V045,Vendor 045 Ltd,HR,9032.7,2026-05-09 01:44:00,E038,E015,New
+EX00291,TX04987,Isolation Forest,Statistical outlier,0.5989,Medium,"Unusual mix of amount (3,462.65), timing and vendor profile",V032,Vendor 032 Ltd,Legal,3462.65,2026-05-16 23:41:00,E001,E033,New
+EX00292,TX03827,Isolation Forest,Statistical outlier,0.5713,Medium,"Unusual mix of amount (120.68), timing and vendor profile",V003,Vendor 003 Ltd,Operations,120.68,2026-05-18 08:45:22,E010,E035,New
+EX00293,TX02525,Isolation Forest,Statistical outlier,0.5845,Medium,"Unusual mix of amount (277.08), timing and vendor profile",V062,Vendor 062 Ltd,HR,277.08,2026-05-20 08:45:23,E004,E023,New
+EX00294,TX03237,Isolation Forest,Statistical outlier,0.6136,High,"Unusual mix of amount (536.67), timing and vendor profile",V033,Vendor 033 Ltd,HR,536.67,2026-05-22 08:24:06,E005,E014,New
+EX00295,TX05003,Isolation Forest,Statistical outlier,0.5698,Medium,"Unusual mix of amount (12,522.98), timing and vendor profile",V017,Vendor 017 Ltd,Legal,12522.98,2026-05-23 14:29:00,E020,E036,Resolved
+EX00296,TX05009,Isolation Forest,Statistical outlier,0.5867,Medium,"Unusual mix of amount (7,047.45), timing and vendor profile",V047,Vendor 047 Ltd,Legal,7047.45,2026-05-25 10:45:00,E010,E010,New
+EX00297,TX04417,Isolation Forest,Statistical outlier,0.6112,High,"Unusual mix of amount (275.54), timing and vendor profile",V033,Vendor 033 Ltd,Operations,275.54,2026-05-26 08:02:56,E017,E016,Under review
+EX00298,TX04979,Isolation Forest,Statistical outlier,0.6131,High,"Unusual mix of amount (6,733.20), timing and vendor profile",V060,Vendor 060 Ltd,Finance,6733.2,2026-05-30 03:54:00,E037,E011,New
+EX00299,TX03836,Isolation Forest,Statistical outlier,0.6298,High,"Unusual mix of amount (138.50), timing and vendor profile",V076,Vendor 076 Ltd,IT,138.5,2026-06-04 14:00:46,E018,E032,New
+EX00300,TX02448,Isolation Forest,Statistical outlier,0.588,Medium,"Unusual mix of amount (318.97), timing and vendor profile",V068,Vendor 068 Ltd,Legal,318.97,2026-06-04 16:57:49,E037,E008,Under review
+EX00301,TX05041,Isolation Forest,Statistical outlier,0.6004,Medium,"Unusual mix of amount (70,543.41), timing and vendor profile",V045,Vendor 045 Ltd,HR,70543.41,2026-06-05 16:20:00,E033,E036,Resolved
+EX00302,TX05044,Isolation Forest,Statistical outlier,0.5718,Medium,"Unusual mix of amount (84,232.68), timing and vendor profile",V014,Vendor 014 Ltd,HR,84232.68,2026-06-08 13:49:00,E012,E034,New
+EX00303,TX05038,Isolation Forest,Statistical outlier,0.5721,Medium,"Unusual mix of amount (37,850.55), timing and vendor profile",V080,Vendor 080 Ltd,Finance,37850.55,2026-06-17 12:00:00,E030,E024,New
+EX00304,TX01857,Isolation Forest,Statistical outlier,0.5787,Medium,"Unusual mix of amount (337.01), timing and vendor profile",V001,Vendor 001 Ltd,IT,337.01,2026-06-18 08:13:37,E015,E039,Resolved
+EX00305,TX00780,Isolation Forest,Statistical outlier,0.5675,Medium,"Unusual mix of amount (260.33), timing and vendor profile",V008,Vendor 008 Ltd,Finance,260.33,2026-06-18 14:39:23,E023,E019,New
+EX00306,TX04999,Isolation Forest,Statistical outlier,0.5776,Medium,"Unusual mix of amount (1,364.19), timing and vendor profile",V038,Vendor 038 Ltd,Procurement,1364.19,2026-06-20 03:11:00,E014,E025,New
+EX00307,TX04978,Isolation Forest,Statistical outlier,0.6067,Medium,"Unusual mix of amount (5,068.53), timing and vendor profile",V065,Vendor 065 Ltd,HR,5068.53,2026-06-20 22:09:00,E040,E039,Under review
+EX00308,TX02306,Isolation Forest,Statistical outlier,0.5693,Medium,"Unusual mix of amount (442.16), timing and vendor profile",V076,Vendor 076 Ltd,Procurement,442.16,2026-06-22 12:24:08,E009,E002,Resolved
+EX00309,TX01291,Isolation Forest,Statistical outlier,0.5893,Medium,"Unusual mix of amount (267.82), timing and vendor profile",V016,Vendor 016 Ltd,IT,267.82,2026-06-26 08:25:31,E020,E031,Resolved
+EX00310,TX01223,Isolation Forest,Statistical outlier,0.6145,High,"Unusual mix of amount (215.59), timing and vendor profile",V064,Vendor 064 Ltd,Finance,215.59,2026-06-26 17:04:16,E010,E038,Under review
+EX00311,TX02025,Isolation Forest,Statistical outlier,0.5771,Medium,"Unusual mix of amount (788.65), timing and vendor profile",V076,Vendor 076 Ltd,HR,788.65,2026-06-26 17:12:34,E028,E003,New
+EX00312,TX04975,Isolation Forest,Statistical outlier,0.605,Medium,"Unusual mix of amount (5,674.42), timing and vendor profile",V049,Vendor 049 Ltd,Legal,5674.42,2026-06-27 23:49:00,E016,E009,Resolved
+EX00313,TX01774,Isolation Forest,Statistical outlier,0.5861,Medium,"Unusual mix of amount (6,911.05), timing and vendor profile",V033,Vendor 033 Ltd,IT,6911.05,2026-06-29 14:28:37,E016,E033,Resolved
+EX00314,TX02667,Isolation Forest,Statistical outlier,0.5659,Medium,"Unusual mix of amount (760.17), timing and vendor profile",V050,Vendor 050 Ltd,IT,760.17,2026-06-30 17:59:35,E012,E018,Resolved
+EX00315,TX05032,Isolation Forest,Statistical outlier,0.5708,Medium,"Unusual mix of amount (55,359.72), timing and vendor profile",V027,Vendor 027 Ltd,Procurement,55359.72,2026-07-02 12:06:00,E024,E004,Under review
+EX00316,TX05019,Isolation Forest,Statistical outlier,0.5773,Medium,"Unusual mix of amount (5,011.56), timing and vendor profile",V014,Vendor 014 Ltd,Operations,5011.56,2026-07-02 15:58:00,E009,E009,New
+EX00317,TX02185,Isolation Forest,Statistical outlier,0.5919,Medium,"Unusual mix of amount (168.65), timing and vendor profile",V062,Vendor 062 Ltd,Operations,168.65,2026-07-03 09:59:51,E014,E001,New
+EX00318,TX05000,Isolation Forest,Statistical outlier,0.6618,High,"Unusual mix of amount (3,145.11), timing and vendor profile",V033,Vendor 033 Ltd,IT,3145.11,2026-07-04 03:36:00,E032,E033,New
+EX00319,TX05025,Isolation Forest,Statistical outlier,0.5852,Medium,"Unusual mix of amount (4,820.29), timing and vendor profile",V035,Vendor 035 Ltd,Procurement,4820.29,2026-07-06 12:39:00,E032,E032,Under review
+EX00320,TX03224,Isolation Forest,Statistical outlier,0.5663,Medium,"Unusual mix of amount (5,073.55), timing and vendor profile",V076,Vendor 076 Ltd,Legal,5073.55,2026-07-09 17:13:23,E007,E035,Resolved
+EX00321,TX03097,Isolation Forest,Statistical outlier,0.5718,Medium,"Unusual mix of amount (1,201.00), timing and vendor profile",V054,Vendor 054 Ltd,HR,1201.0,2026-07-10 15:40:25,E018,E006,New
+EX00322,TX03150,Isolation Forest,Statistical outlier,0.577,Medium,"Unusual mix of amount (191.72), timing and vendor profile",V037,Vendor 037 Ltd,Finance,191.72,2026-07-10 15:52:53,E031,E001,Under review
+EX00323,TX04903,Isolation Forest,Statistical outlier,0.5714,Medium,"Unusual mix of amount (595.31), timing and vendor profile",V025,Vendor 025 Ltd,Legal,595.31,2026-07-11 08:20:37,E007,E036,New
+EX00324,TX01674,Isolation Forest,Statistical outlier,0.5703,Medium,"Unusual mix of amount (4,958.84), timing and vendor profile",V033,Vendor 033 Ltd,IT,4958.84,2026-07-13 16:59:04,E022,E023,Under review
+EX00325,TX04910,Isolation Forest,Statistical outlier,0.5818,Medium,"Unusual mix of amount (7,925.29), timing and vendor profile",V011,Vendor 011 Ltd,Legal,7925.29,2026-07-18 11:15:12,E016,E021,New
+EX00326,TX03611,Isolation Forest,Statistical outlier,0.5664,Medium,"Unusual mix of amount (9,500.00), timing and vendor profile",V054,Vendor 054 Ltd,Procurement,9500.0,2026-07-20 08:15:52,E036,E002,New
+EX00327,TX05012,Isolation Forest,Statistical outlier,0.5849,Medium,"Unusual mix of amount (3,343.20), timing and vendor profile",V034,Vendor 034 Ltd,IT,3343.2,2026-07-20 11:29:00,E039,E039,New
+EX00328,TX04914,Isolation Forest,Statistical outlier,0.5737,Medium,"Unusual mix of amount (9,500.00), timing and vendor profile",V054,Vendor 054 Ltd,Procurement,9500.0,2026-07-23 08:15:52,E036,E002,New
+EX00329,TX01585,Isolation Forest,Statistical outlier,0.5902,Medium,"Unusual mix of amount (264.51), timing and vendor profile",V065,Vendor 065 Ltd,Legal,264.51,2026-07-24 17:28:35,E016,E012,Resolved
+EX00330,TX02925,Isolation Forest,Statistical outlier,0.5666,Medium,"Unusual mix of amount (8,174.33), timing and vendor profile",V013,Vendor 013 Ltd,HR,8174.33,2026-07-24 17:48:44,E004,E034,New
+EX00331,TX05027,Isolation Forest,Statistical outlier,0.5866,Medium,"Unusual mix of amount (7,685.29), timing and vendor profile",V078,Vendor 078 Ltd,Operations,7685.29,2026-07-27 11:05:00,E029,E029,Resolved
+EX00332,TX04059,Isolation Forest,Statistical outlier,0.568,Medium,"Unusual mix of amount (363.93), timing and vendor profile",V076,Vendor 076 Ltd,Finance,363.93,2026-07-28 14:01:54,E033,E003,Under review
+EX00333,TX03834,Isolation Forest,Statistical outlier,0.5736,Medium,"Unusual mix of amount (1,028.97), timing and vendor profile",V050,Vendor 050 Ltd,Legal,1028.97,2026-07-29 17:39:21,E016,E005,New
+EX00334,TX03157,Isolation Forest,Statistical outlier,0.5734,Medium,"Unusual mix of amount (347.75), timing and vendor profile",V054,Vendor 054 Ltd,Procurement,347.75,2026-08-03 17:13:56,E014,E017,Under review
+EX00335,TX03787,Isolation Forest,Statistical outlier,0.5661,Medium,"Unusual mix of amount (1,007.43), timing and vendor profile",V076,Vendor 076 Ltd,IT,1007.43,2026-08-04 10:23:32,E026,E022,New
+EX00336,TX02457,Isolation Forest,Statistical outlier,0.5812,Medium,"Unusual mix of amount (4,256.93), timing and vendor profile",V023,Vendor 023 Ltd,Procurement,4256.93,2026-08-04 17:25:55,E009,E029,Resolved
+EX00337,TX01164,Isolation Forest,Statistical outlier,0.5663,Medium,"Unusual mix of amount (430.42), timing and vendor profile",V054,Vendor 054 Ltd,HR,430.42,2026-08-06 09:58:42,E028,E005,New
+EX00338,TX05048,Isolation Forest,Statistical outlier,0.584,Medium,"Unusual mix of amount (82,005.84), timing and vendor profile",V072,Vendor 072 Ltd,Legal,82005.84,2026-08-12 15:36:00,E003,E030,Under review
+EX00339,TX02659,Isolation Forest,Statistical outlier,0.5681,Medium,"Unusual mix of amount (192.58), timing and vendor profile",V002,Vendor 002 Ltd,Operations,192.58,2026-08-13 09:42:54,E028,E031,New
+EX00340,TX04912,Isolation Forest,Statistical outlier,0.584,Medium,"Unusual mix of amount (1,060.80), timing and vendor profile",V047,Vendor 047 Ltd,HR,1060.8,2026-08-16 08:21:57,E021,E011,New
+EX00341,TX04427,Isolation Forest,Statistical outlier,0.5852,Medium,"Unusual mix of amount (285.62), timing and vendor profile",V033,Vendor 033 Ltd,Procurement,285.62,2026-08-17 14:32:11,E016,E026,Resolved
+EX00342,TX03935,Isolation Forest,Statistical outlier,0.5693,Medium,"Unusual mix of amount (1,025.54), timing and vendor profile",V033,Vendor 033 Ltd,HR,1025.54,2026-08-20 11:38:58,E002,E026,New
+EX00343,TX01793,Isolation Forest,Statistical outlier,0.5818,Medium,"Unusual mix of amount (7,498.71), timing and vendor profile",V062,Vendor 062 Ltd,Procurement,7498.71,2026-08-21 08:08:15,E025,E032,Under review
+EX00344,TX05047,Isolation Forest,Statistical outlier,0.6009,Medium,"Unusual mix of amount (75,967.25), timing and vendor profile",V014,Vendor 014 Ltd,Operations,75967.25,2026-08-21 15:28:00,E039,E013,Under review
+EX00345,TX04976,Isolation Forest,Statistical outlier,0.62,High,"Unusual mix of amount (4,766.72), timing and vendor profile",V033,Vendor 033 Ltd,HR,4766.72,2026-08-22 14:03:00,E040,E031,New
+EX00346,TX05036,Isolation Forest,Statistical outlier,0.5917,Medium,"Unusual mix of amount (36,699.20), timing and vendor profile",V036,Vendor 036 Ltd,IT,36699.2,2026-08-27 14:36:00,E008,E035,Resolved
+EX00347,TX05024,Isolation Forest,Statistical outlier,0.5906,Medium,"Unusual mix of amount (2,960.43), timing and vendor profile",V022,Vendor 022 Ltd,HR,2960.43,2026-08-28 11:28:00,E022,E022,Resolved
+EX00348,TX04995,Isolation Forest,Statistical outlier,0.5991,Medium,"Unusual mix of amount (3,000.53), timing and vendor profile",V025,Vendor 025 Ltd,Procurement,3000.53,2026-08-29 02:22:00,E020,E003,New
+EX00349,TX05023,Isolation Forest,Statistical outlier,0.5659,Medium,"Unusual mix of amount (2,699.43), timing and vendor profile",V005,Vendor 005 Ltd,Operations,2699.43,2026-09-07 13:43:00,E035,E035,Under review
+EX00350,TX05007,Isolation Forest,Statistical outlier,0.5848,Medium,"Unusual mix of amount (2,679.61), timing and vendor profile",V006,Vendor 006 Ltd,Finance,2679.61,2026-09-07 15:03:00,E013,E013,New
+EX00351,TX03110,Isolation Forest,Statistical outlier,0.5816,Medium,"Unusual mix of amount (173.67), timing and vendor profile",V016,Vendor 016 Ltd,IT,173.67,2026-09-18 12:53:32,E033,E036,Under review
+EX00352,TX04997,Isolation Forest,Statistical outlier,0.5879,Medium,"Unusual mix of amount (3,729.44), timing and vendor profile",V067,Vendor 067 Ltd,Finance,3729.44,2026-09-19 03:01:00,E022,E011,New
+EX00353,TX04917,Isolation Forest,Statistical outlier,0.5999,Medium,"Unusual mix of amount (1,757.97), timing and vendor profile",V054,Vendor 054 Ltd,Operations,1757.97,2026-09-19 17:34:28,E010,E009,Under review
+EX00354,TX01502,Isolation Forest,Statistical outlier,0.5666,Medium,"Unusual mix of amount (3,647.13), timing and vendor profile",V033,Vendor 033 Ltd,Legal,3647.13,2026-09-23 14:35:45,E029,E033,Under review
+EX00355,TX00170,Isolation Forest,Statistical outlier,0.583,Medium,"Unusual mix of amount (654.10), timing and vendor profile",V076,Vendor 076 Ltd,Finance,654.1,2026-09-25 15:39:49,E012,E021,Under review
+EX00356,TX00554,Isolation Forest,Statistical outlier,0.5885,Medium,"Unusual mix of amount (459.04), timing and vendor profile",V050,Vendor 050 Ltd,Operations,459.04,2026-09-25 17:30:47,E024,E012,New
+EX00357,TX04977,Isolation Forest,Statistical outlier,0.6039,Medium,"Unusual mix of amount (3,564.19), timing and vendor profile",V030,Vendor 030 Ltd,HR,3564.19,2026-09-26 01:51:00,E004,E018,Resolved
+EX00358,TX04264,Isolation Forest,Statistical outlier,0.5702,Medium,"Unusual mix of amount (131.26), timing and vendor profile",V049,Vendor 049 Ltd,Legal,131.26,2026-09-29 09:47:47,E039,E011,New
+EX00359,TX00297,Isolation Forest,Statistical outlier,0.5886,Medium,"Unusual mix of amount (166.36), timing and vendor profile",V002,Vendor 002 Ltd,Procurement,166.36,2026-10-02 08:30:06,E009,E013,Resolved
+EX00360,TX02991,Isolation Forest,Statistical outlier,0.5674,Medium,"Unusual mix of amount (359.78), timing and vendor profile",V076,Vendor 076 Ltd,Operations,359.78,2026-10-02 10:35:38,E020,E024,New
+EX00361,TX00959,Isolation Forest,Statistical outlier,0.5841,Medium,"Unusual mix of amount (7,170.11), timing and vendor profile",V050,Vendor 050 Ltd,Operations,7170.11,2026-10-02 17:50:42,E040,E001,New
+EX00362,TX00690,Isolation Forest,Statistical outlier,0.5863,Medium,"Unusual mix of amount (139.26), timing and vendor profile",V050,Vendor 050 Ltd,IT,139.26,2026-10-12 14:09:27,E014,E031,Under review

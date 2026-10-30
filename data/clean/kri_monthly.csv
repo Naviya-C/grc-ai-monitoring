@@ -1,0 +1,73 @@
+month,kri_name,value,amber_threshold,red_threshold,status
+2025-11-01,Exception rate (%),1.9,2.0,4.0,Green
+2025-12-01,Exception rate (%),1.16,2.0,4.0,Green
+2026-01-01,Exception rate (%),1.9,2.0,4.0,Green
+2026-02-01,Exception rate (%),1.08,2.0,4.0,Green
+2026-03-01,Exception rate (%),1.64,2.0,4.0,Green
+2026-04-01,Exception rate (%),0.0,2.0,4.0,Green
+2026-05-01,Exception rate (%),2.21,2.0,4.0,Amber
+2026-06-01,Exception rate (%),2.71,2.0,4.0,Amber
+2026-07-01,Exception rate (%),1.76,2.0,4.0,Green
+2026-08-01,Exception rate (%),0.59,2.0,4.0,Green
+2026-09-01,Exception rate (%),1.65,2.0,4.0,Green
+2026-10-01,Exception rate (%),1.45,2.0,4.0,Green
+2025-11-01,Overdue audit actions,3.78,5.0,10.0,Green
+2025-12-01,Overdue audit actions,8.45,5.0,10.0,Amber
+2026-01-01,Overdue audit actions,3.32,5.0,10.0,Green
+2026-02-01,Overdue audit actions,2.99,5.0,10.0,Green
+2026-03-01,Overdue audit actions,4.54,5.0,10.0,Green
+2026-04-01,Overdue audit actions,4.25,5.0,10.0,Green
+2026-05-01,Overdue audit actions,2.19,5.0,10.0,Green
+2026-06-01,Overdue audit actions,0.67,5.0,10.0,Green
+2026-07-01,Overdue audit actions,5.28,5.0,10.0,Amber
+2026-08-01,Overdue audit actions,2.74,5.0,10.0,Green
+2026-09-01,Overdue audit actions,2.74,5.0,10.0,Green
+2026-10-01,Overdue audit actions,2.08,5.0,10.0,Green
+2025-11-01,Control failure rate (%),2.38,10.0,20.0,Green
+2025-12-01,Control failure rate (%),10.3,10.0,20.0,Amber
+2026-01-01,Control failure rate (%),9.33,10.0,20.0,Green
+2026-02-01,Control failure rate (%),8.66,10.0,20.0,Green
+2026-03-01,Control failure rate (%),10.98,10.0,20.0,Amber
+2026-04-01,Control failure rate (%),10.51,10.0,20.0,Amber
+2026-05-01,Control failure rate (%),9.06,10.0,20.0,Green
+2026-06-01,Control failure rate (%),13.89,10.0,20.0,Amber
+2026-07-01,Control failure rate (%),11.44,10.0,20.0,Amber
+2026-08-01,Control failure rate (%),9.12,10.0,20.0,Green
+2026-09-01,Control failure rate (%),5.73,10.0,20.0,Green
+2026-10-01,Control failure rate (%),1.41,10.0,20.0,Green
+2025-11-01,Duplicate payments,0.4,3.0,6.0,Green
+2025-12-01,Duplicate payments,3.39,3.0,6.0,Amber
+2026-01-01,Duplicate payments,1.66,3.0,6.0,Green
+2026-02-01,Duplicate payments,2.48,3.0,6.0,Green
+2026-03-01,Duplicate payments,1.55,3.0,6.0,Green
+2026-04-01,Duplicate payments,5.02,3.0,6.0,Amber
+2026-05-01,Duplicate payments,0.21,3.0,6.0,Green
+2026-06-01,Duplicate payments,2.4,3.0,6.0,Green
+2026-07-01,Duplicate payments,2.02,3.0,6.0,Green
+2026-08-01,Duplicate payments,2.57,3.0,6.0,Green
+2026-09-01,Duplicate payments,2.36,3.0,6.0,Green
+2026-10-01,Duplicate payments,1.16,3.0,6.0,Green
+2025-11-01,Self-approvals,0.72,2.0,5.0,Green
+2025-12-01,Self-approvals,3.03,2.0,5.0,Amber
+2026-01-01,Self-approvals,1.29,2.0,5.0,Green
+2026-02-01,Self-approvals,1.84,2.0,5.0,Green
+2026-03-01,Self-approvals,0.58,2.0,5.0,Green
+2026-04-01,Self-approvals,0.32,2.0,5.0,Green
+2026-05-01,Self-approvals,0.93,2.0,5.0,Green
+2026-06-01,Self-approvals,2.11,2.0,5.0,Amber
+2026-07-01,Self-approvals,1.62,2.0,5.0,Green
+2026-08-01,Self-approvals,1.32,2.0,5.0,Green
+2026-09-01,Self-approvals,2.1,2.0,5.0,Amber
+2026-10-01,Self-approvals,1.01,2.0,5.0,Green
+2025-11-01,Off-hours approvals,3.7,3.0,6.0,Amber
+2025-12-01,Off-hours approvals,3.89,3.0,6.0,Amber
+2026-01-01,Off-hours approvals,1.64,3.0,6.0,Green
+2026-02-01,Off-hours approvals,1.58,3.0,6.0,Green
+2026-03-01,Off-hours approvals,2.47,3.0,6.0,Green
+2026-04-01,Off-hours approvals,3.15,3.0,6.0,Amber
+2026-05-01,Off-hours approvals,1.81,3.0,6.0,Green
+2026-06-01,Off-hours approvals,3.35,3.0,6.0,Amber
+2026-07-01,Off-hours approvals,2.68,3.0,6.0,Green
+2026-08-01,Off-hours approvals,3.69,3.0,6.0,Amber
+2026-09-01,Off-hours approvals,1.52,3.0,6.0,Green
+2026-10-01,Off-hours approvals,1.48,3.0,6.0,Green
